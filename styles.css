@@ -5,13 +5,17 @@
 
 #octocat {
   display: block;
-  width:384px;
-  margin: 50px auto;
+  width:300px;
+  margin: 40px auto;
 }
 
-p {
-  display: block;
-  width: 400px;
-  margin: 50px auto;
-  font: 30px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
+body {
+  font-family: 'Raleway', sans-serif;
+}
+h1 {
+  /* margin: 50px auto 0 auto; */
+  font-family: 'Sacramento', cursive;
+  font-size: 2.625rem;
+  color: #66BFBF;
+  text-align: center;
 }
